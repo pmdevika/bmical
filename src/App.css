@@ -1,0 +1,28 @@
+.bmi-type.underweight {
+    background-color: #EFEFEF;
+  }
+  
+  .bmi-type.normal {
+    background-color: #9CD4BB;
+  }
+  
+  .bmi-type.overweight {
+    background-color: #FFB6B6;
+  }
+  
+  .bmi-type.obesity1 {
+    background-color: #FF9C9C;
+  }
+  
+  .bmi-type.obesity2 {
+    background-color: #FF6565;
+  }
+  
+  .bmi-type.obesity3 {
+    background-color: #FF3232;
+  }
+  
+  .bmi-type.active {
+    font-weight: bold;
+  }
+  
